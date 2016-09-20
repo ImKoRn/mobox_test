@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="image">image</string>
+    <string name="current_time" formatted="false">Current time - %02d:%02d</string>
+</resources>
